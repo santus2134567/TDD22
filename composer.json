@@ -1,0 +1,13 @@
+{
+    "name": "proveedor/componente",
+    "description": "Proyecto para aprender TDD",
+    "authors": [
+        {
+            "name": "manuelguzman",
+            "email": "201913176e@utea.edu.pe"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
